@@ -1,0 +1,12 @@
+C:\Projects\Push.Playground\Push.Playground\ToTypeScript\bin\Debug\net6.0\ToTypeScript.deps.json
+C:\Projects\Push.Playground\Push.Playground\ToTypeScript\bin\Debug\net6.0\ToTypeScript.dll
+C:\Projects\Push.Playground\Push.Playground\ToTypeScript\bin\Debug\net6.0\ToTypeScript.pdb
+C:\Projects\Push.Playground\Push.Playground\ToTypeScript\obj\Debug\net6.0\ToTypeScript.csproj.AssemblyReference.cache
+C:\Projects\Push.Playground\Push.Playground\ToTypeScript\obj\Debug\net6.0\ToTypeScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Push.Playground\Push.Playground\ToTypeScript\obj\Debug\net6.0\ToTypeScript.AssemblyInfoInputs.cache
+C:\Projects\Push.Playground\Push.Playground\ToTypeScript\obj\Debug\net6.0\ToTypeScript.AssemblyInfo.cs
+C:\Projects\Push.Playground\Push.Playground\ToTypeScript\obj\Debug\net6.0\ToTypeScript.csproj.CoreCompileInputs.cache
+C:\Projects\Push.Playground\Push.Playground\ToTypeScript\obj\Debug\net6.0\ToTypeScript.dll
+C:\Projects\Push.Playground\Push.Playground\ToTypeScript\obj\Debug\net6.0\refint\ToTypeScript.dll
+C:\Projects\Push.Playground\Push.Playground\ToTypeScript\obj\Debug\net6.0\ToTypeScript.pdb
+C:\Projects\Push.Playground\Push.Playground\ToTypeScript\obj\Debug\net6.0\ref\ToTypeScript.dll
